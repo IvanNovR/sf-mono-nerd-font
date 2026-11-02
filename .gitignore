@@ -1,0 +1,15 @@
+# Local tools and original development workflow are not part of this distribution.
+/.local/
+/.tools/
+/.venv/
+/.build/
+/dist/
+/fonts/
+/scripts/
+/tests/
+/docs/
+/requirements.txt
+/You
+__pycache__/
+*.py[cod]
+.DS_Store

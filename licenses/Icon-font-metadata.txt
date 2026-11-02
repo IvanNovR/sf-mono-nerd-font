@@ -1,0 +1,70 @@
+Embedded copyright/license records from icon fonts bundled with Nerd Fonts 3.5.1.
+These notices describe the icon sources, not a license for Apple SF Mono.
+
+src/glyphs/Unicode_IEC_symbol_font.otf
+
+src/glyphs/codicons/codicon.ttf
+
+src/glyphs/codicons/codicon_orig.ttf
+
+src/glyphs/devicons/devicons.otf
+
+nameID 0
+See https://github.com/devicons/devicon
+
+src/glyphs/font-awesome/FontAwesome.otf
+
+nameID 0
+Fonticons, Inc
+
+src/glyphs/font-awesome-extension.ttf
+
+src/glyphs/font-logos.ttf
+
+nameID 0
+Copyright (c) 2014-2026, Lukas W
+
+src/glyphs/materialdesign/MaterialDesignIconsDesktop.ttf
+
+src/glyphs/materialdesign/MaterialDesignIconsDesktop_orig.ttf
+
+src/glyphs/materialdesign/materialdesignicons-webfont.ttf
+
+src/glyphs/octicons/octicons.otf
+
+nameID 0
+GitHub Inc.
+
+src/glyphs/original-source.otf
+
+nameID 0
+Nerd Fonts
+
+src/glyphs/pomicons/Pomicons.otf
+
+nameID 0
+Copyright (c) 2014 by Davide Bignotti. All rights reserved.
+
+nameID 14
+Free
+
+src/glyphs/powerline-extra/PowerlineExtraSymbols.otf
+
+nameID 0
+MIT © Ryan L McIntyre
+
+nameID 13
+MIT
+
+nameID 14
+https://opensource.org/licenses/MIT
+
+src/glyphs/powerline-symbols/PowerlineSymbols.otf
+
+nameID 0
+Created with FontForge 2.0 (http://fontforge.sf.net)
+
+src/glyphs/weather-icons/weathericons-regular-webfont.ttf
+
+nameID 0
+Weather Icons licensed under SIL OFL 1.1 — Code licensed under MIT License — Documentation licensed under CC BY 3.0
